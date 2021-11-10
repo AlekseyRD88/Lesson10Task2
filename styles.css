@@ -1,0 +1,9 @@
+.block {
+   height: 100px;
+   min-width: 100px;
+   flex-shrink: 1;
+}
+body {
+   display: flex;
+   flex-wrap: wrap;
+}
